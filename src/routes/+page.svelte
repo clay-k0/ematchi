@@ -98,7 +98,7 @@
 
 	p {
 		margin: 0 0 1em 0;
-    font-family: Grandstander;
+		font-family: Grandstander;
 	}
 
 	.buttons {
@@ -115,14 +115,14 @@
 		border: none;
 		padding: 1em;
 		border-radius: 0.5em;
-    cursor: pointer;
-    font-weight: bold;
+		cursor: pointer;
+		font-weight: bold;
 	}
 
-  button:hover {
-    background: var(--accent-dark);
-    color: #d8d8d8;
-  }
+	button:hover {
+		background: var(--accent-dark);
+		color: #d8d8d8;
+	}
 
 	.confetti {
 		position: fixed;
