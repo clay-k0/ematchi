@@ -13,7 +13,6 @@
 <svelte:head>
 	<title>ematchi</title>
 	<meta name="description" content="the emoji matching game" />
-
 </svelte:head>
 
 <main>
